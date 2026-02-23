@@ -1,0 +1,9 @@
+{
+  "name": "AI Circuit Mentor",
+  "short_name": "AICM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0891b2",
+  "icons": []
+}
